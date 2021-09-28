@@ -1,0 +1,7 @@
+{
+  "name": "experiencia2",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
